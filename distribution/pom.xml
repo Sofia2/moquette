@@ -3,7 +3,6 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <relativePath>../</relativePath>
-        <!--<relativePath>../pom.xml</relativePath>-->
         <artifactId>moquette-parent</artifactId>
         <groupId>io.moquette</groupId>
         <version>0.9.3.sofia</version>
