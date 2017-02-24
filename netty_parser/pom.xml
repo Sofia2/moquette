@@ -8,7 +8,6 @@
         <groupId>io.moquette</groupId>
         <version>0.9.4.sofia</version>
     </parent>
-
     <artifactId>moquette-netty-parser</artifactId>
     <packaging>jar</packaging>
     <name>Moquette - Netty Parser</name>
